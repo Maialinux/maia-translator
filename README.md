@@ -1,5 +1,5 @@
 # Maia-Translator V 0.1
-<b> Tradutor feito em Python3 + Customtkinter + ApiGoogle
+<b> Tradutor feito em Python3 + Customtkinter + deep-translator
 
 <hr>
 
