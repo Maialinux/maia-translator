@@ -1,4 +1,4 @@
-# Maia-Translator
+# Maia-Translator V 0.1
 <b> Tradutor feito em Python3 + Customtkinter + ApiGoogle
 
 <hr>
